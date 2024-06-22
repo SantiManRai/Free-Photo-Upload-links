@@ -5,7 +5,7 @@
    
 2. Edit Photo:
 
-   https://www.remove.bg/upload
+   https://www.canva.com/
 
    Search for profile type where you wanna upload: Linkedin
    Background Photo
