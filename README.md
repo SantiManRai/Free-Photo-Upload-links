@@ -9,4 +9,8 @@
 
    Search for profile type where you wanna upload: Linkedin
    Background Photo
-4. 
+   
+4. Emoji Online:
+   
+   https://emojipedia.org/
+   
